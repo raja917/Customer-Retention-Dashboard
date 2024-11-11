@@ -1,0 +1,25 @@
+Key Findings:
+
+1.	Total Churn: Out of our total customer base, we are experiencing a churn rate of 27%. This means that 27% of our customers have left, while the remaining 73% have stayed with us.
+
+2.	Churn by Contract: Customers with monthly contracts have higher churn rates compared to yearly contracts. This indicates that customers with less commitment are more likely to leave.
+
+3.	Churn by Charges: Higher monthly charges seem to correlate with higher churn rates.Month-to-month had ₹ 19, 27,182.25 Total Charges, ₹ 1, 20,847.10 Monthly Charges, and 1,655 Churn. One year had ₹ 6, 74,991.20 Total Charges, ₹ 14,118.45 Monthly Charges, and 166 Churn. Two year had ₹ 2, 60,753.45 Total Charges, ₹ 4,165.30 Monthly Charges, and 48 Churn.
+
+4.	Total Revenue and Loss: Customers who have been with us for 4-5 years or more generate higher revenue and incur fewer losses. Conversely, in the first year, we see lower revenue and higher losses.
+
+5.	Churn by Payment Method: Electronic checks are being used more frequently, but they generate less revenue compared to other payment methods.
+
+6.	Tenure: 0-1 Years had the highest Churn at 1037, followed by 1-2 Years and 2-3 Years. 5 Years had the lowest Churn at 93.
+
+7.	Service Churn: Tech support and online security have the lowest churn rates, which means customers are sticking with these services. Highlighting their benefits could help retain more customers. On the other hand, phone services have the highest churn rate, followed by multiple lines. Additionally, fiber optic services show a significant churn rate of 69.4%.
+
+8.	Administrative and Technical Tickets: Technical support tickets are high. Improving tech support could boost customer satisfaction and reduce churn.
+
+Suggestions for Improvement:
+
+1.	To reduce churn, we should engage customers early, especially those on monthly contracts, and offer incentives for longer commitments. Such as Personalized offers, discounts, and loyalty programs can help reduce churn. 
+2.	Offer incentives for customers to switch from monthly to yearly contracts. This could include discounts, additional services, or exclusive benefits for committing to a longer-term contract. 
+3.	Expand payment options and educate customers on their benefits to reduce churn from electronic checks.
+4.	Train support staff better, improve ticket resolution processes, and use self-service and AI tools to cut down ticket volume and boost customer satisfaction.
+
